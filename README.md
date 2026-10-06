@@ -9,10 +9,12 @@
 
 ## ⬇️ Download
 
-Grab the newest version from **[Releases](../../releases/latest)**:
+Always the newest version:
 
-- 🍎 **Mac** (Apple Silicon + Intel): `Nat20-<version>-universal.dmg`
-- 🪟 **Windows**: `Nat20-Setup-<version>.exe` (Windows may say "Windows protected your PC": click **More info → Run anyway**)
+- 🍎 **[Download for Mac](https://github.com/zehlyah-stack/nat20-releases/releases/latest/download/Nat20-Mac.dmg)** (Apple Silicon + Intel)
+- 🪟 **[Download for Windows](https://github.com/zehlyah-stack/nat20-releases/releases/latest/download/Nat20-Windows-Setup.exe)** (Windows may say "Windows protected your PC": click **More info → Run anyway**)
+
+Or browse every version on the **[Releases](../../releases)** page.
 
 Once installed, Nat20 updates itself.
 
